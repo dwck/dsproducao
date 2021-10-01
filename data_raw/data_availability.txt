@@ -1,0 +1,3 @@
+Raw data is greater than 25mb.
+Raw data available at:
+https://www.kaggle.com/c/rossmann-store-sales/data
